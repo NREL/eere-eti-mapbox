@@ -4,22 +4,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>  ʕ •ᴥ•ʔ  </title>
+
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css" rel="stylesheet" />
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
 </head>
 <body>
 
-<h3>iFrame vesion</h3>
+<!--
 <iframe width="830px" height="500px" frameBorder="0"
     src="https://a.tiles.mapbox.com/v4/nrel.ldmp1a1o/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw#4/26/-71">
 </iframe>
-
-
-<h3>Full size</h3>
-<p><a href="https://a.tiles.mapbox.com/v4/nrel.ldmp1a1o/page.html?access_token=pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw#5/21.811/-68.423">ʕ •ᴥ•ʔ</a></p>
-
-<!--
-
-<img src="http://eeredev.nrel.gov/sandbox/moakley/eti-mapbox/assets/images/__________.jpg"><br><a  href="__________"> __________ <img src="http://eeredev.nrel.gov/sandbox/moakley/eti-mapbox/assets/images/icon-fa-pdf-3887be.jpg" alt="PDF" style="margin-bottom:0;vertical-align: text-bottom;">.</a>
-
 -->
+
+<div id="map"></div>
+
+<script>
+    L.mapbox.accessToken = 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw';
+    var map = L.mapbox.map('map', 'nrel.ldmp1a1o');
+
+    map.featureLayer.options.popupOptions.closeButton = true;
+
+    map.setView([26.4,-71.1], 4);
+</script>
+
 </body>
 </html>
