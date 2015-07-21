@@ -11,6 +11,7 @@
     <style>
       body { margin:0; padding:0; }
       #map { position:absolute; top:0; bottom:0; width:100%; }
+      /*#map { width:1000px; height:600px;}*/ /* energy.gov size */
     </style>
 
     <script type="text/javascript">
@@ -34,13 +35,14 @@
     var config = {
         token : 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
       , mapid : 'nrel.ldmp1a1o'
-      , zoom  : 5
-      , gps   : [ 14.711, -74.619 ]
+      , zoom  : 3
+      , gps   : [ 0, -143 ]
     }
 
     L.mapbox.accessToken = config.token
 
-    var map = L.mapbox.map( 'map', config.mapid ).setView( config.gps, config.zoom )
+    var map = L.mapbox.map( 'map', config.mapid )
+                .setView( config.gps, config.zoom )
 
     map.featureLayer.options.popupOptions.closeButton = true
 
