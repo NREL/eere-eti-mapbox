@@ -8,11 +8,29 @@
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
     <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js"></script>
     <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css" rel="stylesheet" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+
     <style>
       body { margin:0; padding:0; }
       #map { position:absolute; top:0; bottom:0; width:100%; }
       /*#map { width:1000px; height:600px;}*/ /* energy.gov size */
+      .map-nav {
+          position: absolute;
+          left:10px;
+          top: 75px;
+          z-index: 1;
+      }
+      .map-nav .map-button {
+          min-width: 130px;
+          margin-bottom: 7px;
+          text-align: left;
+      }
     </style>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
     <script type="text/javascript">
     (function() {
@@ -28,10 +46,21 @@
 <body>
 
 
-<div id="map"></div>
+<div id="map">
+
+    <!-- Map Controls -->
+    <div class="map-nav">
+        <div><a href="#" class="map-button btn btn-default" data-position="0.8788717828324276, -197.2265625,4" ><i class="fa fa-search-plus"></i> South Pacific</a></div>
+        <div><a href="#" class="map-button btn btn-default" data-position="17.978733095556183, -71.3671875, 4"><i class="fa fa-search-plus"></i> Caribbean</a></div>
+    </div>
+
+</div>
 
 <script>
-
+/*
+ {lat: 26.745610382199022, lng: -234.140625}
+{lat: -21.616579336740593, lng: -160.3125}
+ */
     var config = {
         token : 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
       , mapid : 'nrel.ldmp1a1o'
@@ -46,7 +75,37 @@
 
     map.featureLayer.options.popupOptions.closeButton = true
 
+
+    map.on('click', function(e) {
+        console.log(e.latlng);
+    })
+
+    /*
+     *
+     *  Click handler for map UI buttons
+     *
+     */
+    $( '.map-nav' ).on( 'click', function(e){
+        var params     // gps coords + zoom
+          , gps
+          , zoom;
+
+        params = $(e.target).attr('data-position');
+
+        if (params) {
+            gps  = params.split(',');
+            zoom = gps.pop();
+
+            map.setView(gps,zoom);
+        }
+
+        return false;
+    });
+
+
+
 </script>
+
 
 </body>
 </html>
