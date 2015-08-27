@@ -1,0 +1,22 @@
+{
+  "asi": true,
+  "esnext": true,
+  "bitwise": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "immed": true,
+  "indent": 4,
+  "latedef": "nofunc",
+  "laxcomma": true,
+  "newcap": true,
+  "nonew": true,
+  "noarg": true,
+  "quotmark": false,
+  "regexp": true,
+  "undef": true,
+  "unused": false,
+  "trailing": true,
+  "sub": true,
+  "maxlen": 80
+}
