@@ -1,0 +1,594 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ibjdxwvl1",
+        "title": "Haiti",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/Haiti_iStock_886989.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64121.pdf\" target=\"_blank\">Learn more about Haiti’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -73.114977,
+          19.015883
+        ],
+        "type": "Point"
+      },
+      "id": "037efc4d6d32701ddbf008168917768e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci7mdh52w03t8hvkuoywbuwjq",
+        "title": "Belize",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-belize.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62707.pdf\" target=\"_blank\">Learn more about Belize’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -88.198242,
+          17.497389
+        ],
+        "type": "Point"
+      },
+      "id": "0822ff3ac3e0f9b673f109562cfd807d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia88zl9a0",
+        "title": "Guadeloupe",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-guadeloupe.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64116.pdf\" target=\"_blank\">Learn more about Guadeloupe’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.677246,
+          16.214673
+        ],
+        "type": "Point"
+      },
+      "id": "0b997bb093a5f0c70c1ba6a53665614b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-icdcpet04",
+        "title": "American Samoa",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/american-samoa.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64292.pdf\" target=\"_blank\">Learn more about American Samoa's electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -172.006072,
+          -13.832746
+        ],
+        "type": "Point"
+      },
+      "id": "0c4ac383f8f7c0f6d6d10337fc7a3116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci73emd84016hgwkla7nupbbh",
+        "title": "British Virgin Islands",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-bvi.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62703.pdf\" target=\"_blank\">Learn more about the British Virgin Islands’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -64.623641,
+          18.428804
+        ],
+        "type": "Point"
+      },
+      "id": "11324018d47c2ad891e0d03fc7478f1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci73emd83016ggwklsoa7vn4b",
+        "title": "Turks and Caicos Islands",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-turks.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62698.pdf\" target=\"_blank\">Learn more about Turks and Caicos’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -71.769561,
+          21.806683
+        ],
+        "type": "Point"
+      },
+      "id": "1ac1670fe9e2c049b36ac0fd49fa6039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-a88c8d542",
+        "title": "Marshall Islands",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-marshall-islands.jpg\"><br><a href=\"https://energy.gov/node/2868906\" target=\"_blank\">Learn more about the Marshall Islands’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -171.184478,
+          7.131474
+        ],
+        "type": "Point"
+      },
+      "id": "1edecd05ab129546cbab7e2d4bd82076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci73emd85016igwklx6g223i3",
+        "title": "St. Lucia",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-lucia.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62688.pdf\" target=\"_blank\">Learn more about St. Lucia’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -60.952148,
+          13.891411
+        ],
+        "type": "Point"
+      },
+      "id": "2d16dbcbc0cb918e2d5e6a42686fd719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci7dx7a8902ighklvrspesyih",
+        "title": "St. Kitts and Nevis",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-stkitts-nevis.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62706.pdf\" target=\"_blank\">Learn more about St. Kitts and Nevis’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -62.638549,
+          17.245744
+        ],
+        "type": "Point"
+      },
+      "id": "3adb290f179992af3cf0666805ca6134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iekhi4q50",
+        "title": "St. Martin",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/Saint-Martin_280795769.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64122.pdf\" target=\"_blank\">Learn more about Saint Martin’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -63.053283,
+          18.061006
+        ],
+        "type": "Point"
+      },
+      "id": "3fe60ff705da2b6be79bbe2a990993b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci76aqhy100i5hxm2v0k26sly",
+        "title": "Dominica",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-dominica.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62704.pdf\" target=\"_blank\">Learn more about Dominica’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.339416,
+          15.440443
+        ],
+        "type": "Point"
+      },
+      "id": "455b280cb1d19fefa0ae7e77e78ab467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia5k2clq0",
+        "title": "",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/trinidad-tobago.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64117.pdf\" target=\"_blank\">Learn more about Trinidad and Tobago’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.270751,
+          10.466205
+        ],
+        "type": "Point"
+      },
+      "id": "5832d8f9b836932be22450568b502f0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci7244oi904y3hrm097ks80cw",
+        "title": "Bahamas",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-turks.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62698.pdf\" target=\"_blank\">Learn more about Turks and Caicos’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.338943,
+          25.074404
+        ],
+        "type": "Point"
+      },
+      "id": "5930cf0c18c3911ffc12cbf460a7d51e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iekhtmjh2",
+        "title": "Dominican Republic",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/Dom_Repub_shutterstock_303996761.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64125.pdf\" target=\"_blank\">Learn more about the Dominican Republic’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -70.136718,
+          18.843913
+        ],
+        "type": "Point"
+      },
+      "id": "600446c3ef21fe983eea4fd03fd8c5ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-icdcieh43",
+        "title": "Marshall Islands",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/northern-marina-islands.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64293.pdf\" target=\"_blank\">Learn more about the Commonwealth of the Northern Marina Islands’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -214.373474,
+          14.993872
+        ],
+        "type": "Point"
+      },
+      "id": "62a7ba40d26f41249704068331fe27e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci809cm1k02awhumb7jgph2rz",
+        "title": "Aruba",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-aruba.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62709.pdf\" target=\"_blank\">Learn more about Aruba's electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -69.977416,
+          12.508984
+        ],
+        "type": "Point"
+      },
+      "id": "678ab958a0d1dcbee188b22eabb5f6f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iekhx7kp3",
+        "title": "Anguilla",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/Anguilla_299736032.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64123.pdf\" target=\"_blank\">Learn more about Anguilla’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -63.055343,
+          18.234568
+        ],
+        "type": "Point"
+      },
+      "id": "769d8fcb7c1a39156cc348ead4414a40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci76aqhy200i6hxm23trcx61w",
+        "title": "U.S. Virgin Islands",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-usvi.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62701.pdf\" target=\"_blank\">Learn more about the U.S. Virgin Islands’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -64.769897,
+          17.731682
+        ],
+        "type": "Point"
+      },
+      "id": "854da6faa0d9f133eb6a243eb15505aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ie388tm00",
+        "title": "St. Vincent and the Grenadines",
+        "description": "<img src=\"https://cms.doe.gov/sites/prod/files/styles/large/public/st_vincent_shutterstock_124748230.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64127.pdf\" target=\"_blank\">Learn more about St. Vincent and the Grenadines’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.193847,
+          13.22925
+        ],
+        "type": "Point"
+      },
+      "id": "a549f6fa33064bd63d87299c419a34c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci7qlyu51008775kufijv1bhw",
+        "title": "San Andres and Providencia",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo_san-andres-providencia.jpg\" alt=\" \"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62710.pdf\" target=\"_blank\">Learn more about San Andres and Providencia’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -81.707725,
+          12.590753
+        ],
+        "type": "Point"
+      },
+      "id": "a88b2d4d43d470377dcf0acf21643349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ibjdslht0",
+        "title": "Barbados",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/Barbados_iStock_15678166.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64118.pdf\" target=\"_blank\">Learn more about Barbados’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -59.536556,
+          13.189566
+        ],
+        "type": "Point"
+      },
+      "id": "b0bc30cd8d884426d7301aa052f44e6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-icdchfr32",
+        "title": "Guam",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-marshall-islands.jpg\"><br><a href=\"https://energy.gov/node/2868906\" target=\"_blank\">Learn more about the Marshall Islands’ electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -215.197448,
+          13.486791
+        ],
+        "type": "Point"
+      },
+      "id": "b244d56f0124d75e6155604d87ad8efd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci89buerh01cuhlm1k3ov0y18",
+        "title": "Jamaica",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-jamaica.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/63945.pdf\" target=\"_blank\">Learn more about Jamaica's electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.299804,
+          18.229351
+        ],
+        "type": "Point"
+      },
+      "id": "b2ab2602cd41992ad48ed3ea3ce50a7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci7q9erbe00haigm22l5cv0n3",
+        "title": "Puerto Rico",
+        "description": "<img src=\"https://cms.doe.gov/sites/prod/files/photo-puerto-rico.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62708.pdf\" target=\"_blank\">Learn more about Puerto Rico’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -66.126706,
+          18.419684
+        ],
+        "type": "Point"
+      },
+      "id": "ba7e748b0bc85b37c7c5f1f296a030d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iekhq5je1",
+        "title": "Monserrat",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/Montserrat_258143927.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64126.pdf\" target=\"_blank\">Learn more about Monserrat’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -62.18811,
+          16.766411
+        ],
+        "type": "Point"
+      },
+      "id": "bd72b85d3f9390eaff09104a3a42c978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ibjdz3in2",
+        "title": "Bonaire",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/Bonaire_iStock_8569480.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64119.pdf\" target=\"_blank\">Learn more about Bonaire’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -70.839843,
+          12.1688
+        ],
+        "type": "Point"
+      },
+      "id": "bf0c03e0eae1145fa03b3c43c064bacb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia5k6x0q1",
+        "title": "Antigua and Barbuda",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/antigua-barbuda.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64115.pdf\" target=\"_blank\">Learn more about Antigua and Barbuda’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects. <img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.798095,
+          17.111917
+        ],
+        "type": "Point"
+      },
+      "id": "deb3d17c83ac9f05537bc62c1c406ae3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ibje00wu3",
+        "title": "Curacao",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/Curacao_shutterstock_247801453.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64120.pdf\" target=\"_blank\">Learn more about Curacao’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -68.933,
+          12.2083
+        ],
+        "type": "Point"
+      },
+      "id": "eae20293e40be48aa74edcf379c4c0bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-icdcf5sq0",
+        "title": "Federated States of Micronesia",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/micronesia_iStock_21290173.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64294.pdf\" target=\"_blank\">Learn more about the Federated States of Micronesia's electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -201.785888,
+          6.8828
+        ],
+        "type": "Point"
+      },
+      "id": "ecbf0af2ea27739418a2647b456af17e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ci76aqhy000i4hxm2p0lag8jr",
+        "title": "Grenada",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/photo-grenada.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/62699.pdf\" target=\"_blank\">Learn more about Grenada’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\">.</a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.674499,
+          12.111837
+        ],
+        "type": "Point"
+      },
+      "id": "f3ed062d719039829e0e336ba43ccbeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-icdcgqel1",
+        "title": "Palau",
+        "description": "<img src=\"https://energy.gov/sites/prod/files/styles/large/public/palua_shutter_36379693.jpg\"><br><a href=\"https://www.nrel.gov/docs/fy15osti/64291.pdf\" target=\"_blank\">Learn more about Palau’s electricity sector, policies, and opportunities to implement energy efficiency and renewable energy projects.<img src=\"https://energy.gov/sites/prod/files/styles/large/public/icon-fa-pdf-3887be.jpg\" alt=\"PDF\" style=\"margin-bottom:0;vertical-align: text-bottom;\"></a>",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -225.466232,
+          7.366893
+        ],
+        "type": "Point"
+      },
+      "id": "f507be5f1a7f1b8e1de43d7610defee5"
+    }
+  ],
+  "type": "FeatureCollection"
+}
