@@ -6,8 +6,9 @@
     <title>  ʕ •ᴥ•ʔ  Caribbean Snapshots</title>
 
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js"></script>
-    <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css" rel="stylesheet" />
+    <script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
+
 
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
@@ -61,15 +62,19 @@
 <script>
     var config = {
         token : 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
-      , mapid : 'nrel.ldmp1a1o'
       , zoom  : 2
       , gps   : [ 0, -143 ]
     }
 
     L.mapbox.accessToken = config.token
 
-    var map = L.mapbox.map( 'map', config.mapid )
+    var map = L.mapbox.map( 'map' )
                 .setView( config.gps, config.zoom )
+                .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+
+    var featureLayer = L.mapbox.featureLayer()
+        .loadURL('/features.geojson')
+        .addTo(map);
 
     map.featureLayer.options.popupOptions.closeButton = true
 
