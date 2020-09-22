@@ -73,7 +73,7 @@
                 .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
 
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('/features.geojson')
+        .loadURL('./features.geojson')
         .addTo(map);
 
     map.featureLayer.options.popupOptions.closeButton = true
